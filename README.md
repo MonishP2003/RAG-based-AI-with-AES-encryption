@@ -3,13 +3,13 @@ This project integrates Retrieval-Augmented Generation (RAG) based AI with Advan
 
 <br/>
 
-Introduction
+## Introduction
 
 This project combines state-of-the-art AI techniques with robust encryption methods. By utilizing a RAG-based AI model, the system can generate contextually relevant responses while ensuring data security through AES encryption. The model is configured to optimize performance using quantization techniques.
 
 <br/>
 
-Model Configuration
+## Model Configuration
 
 The model is configured using HuggingFace transformers with specific quantization to enable efficient processing:
 
@@ -19,7 +19,7 @@ Language Model: The HuggingFaceLLM class is used to initialize and configure the
 
 <br/>
 
-Encryption with AES
+## Encryption with AES
 
 The project also includes AES encryption to ensure data security:
 
